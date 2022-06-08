@@ -1,2 +1,2 @@
 List of projects:
-- Grid Item Share Background (gridItemSB)
+- Log In / Sign Up - pure css - #12 (logInSignUp)
