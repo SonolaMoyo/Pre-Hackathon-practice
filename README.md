@@ -5,3 +5,6 @@ List of projects:
 
 - Microsoft Homepage clone (microHP)
 
+- Responsive Card Grid Layout (RespCard)
+
+- Responsive Equal Height Div (RespDiv)
